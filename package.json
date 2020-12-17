@@ -1,0 +1,16 @@
+{
+  "name": "mini-css-extract-plugin-bug",
+  "version": "1.0.0",
+  "main": "index.js",
+  "private": true,
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^4.44.2",
+    "mini-css-extract-plugin": "^1.3.3"
+  },
+  "workspaces": {
+    "packages": [
+      "app"
+    ]
+  }
+}
